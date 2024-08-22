@@ -15,7 +15,7 @@ I'm always studying new things, and had professional experience with temporal da
 - 🌱 I’m currently learning front and backend 
 - 👯 I’m looking to collaborate on data projects 
 - 📫 How to reach me:
-  [![E-mail : lais.amorim@ufpe.br](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](lais.amorim@ufpe.com)
+  [![E-mail : lais.amorim@ufpe.br](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](lais.amorim@ufpe.br)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lais-souza-amorim/)
  
 
